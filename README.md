@@ -1,8 +1,21 @@
 # AI Techniques and Tools - Doctorat Project
 
+<table>
+<tr>
+<td width="60%">
+
 ## 📋 Overview
 
 This project contains educational materials for **Axis III: Research and Analysis of Data Driven by AI**, part of a doctoral-level coursework in AI Techniques and Tools. The curriculum focuses on data acquisition, processing, and analysis using artificial intelligence tools, with the objective of mastering fundamental steps of modeling and interpreting results through modern mathematical and algorithmic approaches.
+
+</td>
+<td width="40%" align="center">
+
+<img src="images/qr_code.png" alt="QR Code" width="300">
+
+</td>
+</tr>
+</table>
 
 ## � Quick Start with Google Colab
 
