@@ -26,6 +26,10 @@ This project contains educational materials for **Axis III: Research and Analysi
 | **Part 1** | Introduction to Data Science with Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-x1XAQxVev-IO99XVmhjLzLy1QClWwGN?usp=sharing) |
 | **Part 2** | Data Preprocessing and Cleaning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GtmBEd6kYumK1MCj3DifDbVLmniDR5Od?usp=sharing) |
 | **Part 3** | Grouping, Joins, and Aggregations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YQ93wb-lBgvuMq5-5Azpus6aLMOJGQsS?usp=sharing) |
+| **Brain Tumor Classification** | Brain Tumor Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13gd8cL4BNcYEupu5K4LktsyAuuSui1mm?usp=sharing) |
+| **Brain Tumor Detection** | Brain Tumor Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P3V0mjZszxa7iGlfSSguQOJlKeeBZ0B_?usp=sharing) |
+| **Audio Classification** | Audio Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nmt5I5nlRhd_15H9iylGJixTe32tOyin?usp=sharing) |
+| **Natural Language Processing** | Natural Language Processing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16uxhEVr041SJ7aqzGLuId6m8VVsgsQ7s?usp=sharing) |
 
 > 💡 **Tip**: Google Colab provides free GPU access and comes with most data science libraries pre-installed. Simply click the badge above to start learning!
 
@@ -38,9 +42,13 @@ Doctorat/
 │   ├── cars.csv              # Car sales dataset
 │   └── gapminder.csv         # Gapminder dataset
 └── notebooks/                 # Jupyter notebooks (educational content)
-    ├── IA_Axe_3_(Part_1).ipynb
-    ├── IA_Axe_3_(Part_2).ipynb
-    └── IA_Axe_3_(Part_3).ipynb
+    ├── IA_Axe_3_(Part_1).ipynb          # Data Science Introduction
+    ├── IA_Axe_3_(Part_2).ipynb          # Data Preprocessing
+    ├── IA_Axe_3_(Part_3).ipynb          # Grouping & Aggregations
+    ├── Brain_Tumor_Classification.ipynb # Brain Tumor Classification
+    ├── BrainTumorDetection.ipynb        # Brain Tumor Detection
+    ├── TF_Audio_Classification.ipynb    # Audio Classification
+    └── TF_NLP.ipynb                     # Natural Language Processing
 ```
 
 ## 📚 Course Content
@@ -225,9 +233,17 @@ This will open Jupyter Notebook in your default web browser.
 #### Step 6: Open and Run Notebooks
 
 Navigate to the `notebooks/` directory and open any of the following:
-- `IA_Axe_3_(Part_1).ipynb`
-- `IA_Axe_3_(Part_2).ipynb`
-- `IA_Axe_3_(Part_3).ipynb`
+
+**Data Science Course Notebooks:**
+- `IA_Axe_3_(Part_1).ipynb` - Introduction to Data Science with Python
+- `IA_Axe_3_(Part_2).ipynb` - Data Preprocessing and Cleaning
+- `IA_Axe_3_(Part_3).ipynb` - Grouping, Joins, and Aggregations
+
+**Machine Learning Notebooks:**
+- `Brain_Tumor_Classification.ipynb` - Brain Tumor Classification
+- `BrainTumorDetection.ipynb` - Brain Tumor Detection
+- `TF_Audio_Classification.ipynb` - Audio Classification
+- `TF_NLP.ipynb` - Natural Language Processing
 
 ### Deactivating the Virtual Environment
 
